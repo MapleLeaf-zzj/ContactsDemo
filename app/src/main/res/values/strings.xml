@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ContactsDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">查找联系人</string>
+    <string name="fab_name">姓名</string>
+    <string name="fab_phone">电话</string>
+    <string name="phone">手机</string>
+    <string name="more">更多</string>
+
+    <string-array name="tab_title">
+        <item>常用</item>
+        <item>全部</item>
+    </string-array>
+</resources>
